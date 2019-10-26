@@ -2,7 +2,7 @@
 
 ## Implementing a generic decision tree classifier in swift and testing it on a dataset of strings and then on the iris dataset(comprising of Double type values).
 
-### This repo consists of a python and a swift version of a decision tree classifier. 
+### This repo consists of a python and a swift version of a decision tree classifier. Why would I try this in Swift? Check out [Swift For TensorFlow - S4TF ](https://github.com/tensorflow/swift) and [Fast AI embracing swift for ML](https://www.fast.ai/2019/03/06/fastai-swift/) to know why swift is important for Machine Learning.
 
 - - -
 * As part of a course on machine learning, i learned how to write a decision tree classifier in python. But can it be implemented in swift? I explore it here. 

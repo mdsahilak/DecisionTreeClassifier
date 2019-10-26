@@ -9,4 +9,4 @@
 
 * Now swift is a strongly typed language, wheares python isnt. So, there are small differences in the algorithm. For example, in swift, i cannot use an array that contains both strings and doubles at the same time(actually, you can by using the 'Any' type, but it is not ideal and causes a lot of errors later in the code.)
 
-* However, I did make the algorithm Generic. so even though you cannot have strings and doubles at the same time in the training data, it can either be all strings or all double or all Int, etc. and the same algorithm can work on both data types, as demonstrated in the playground.
+* However, I did make the algorithm Generic. so even though you cannot have strings and doubles at the same time in the training data, it can either be all strings or all double or YourOwnType or Int or Bool etc. and the same algorithm can work on both data types, as demonstrated in the playground.

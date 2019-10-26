@@ -1,5 +1,5 @@
 
-# KNearestNeighbour Classifier in swift
+# A Generic Decision Tree Classifier in swift
  
  ## The .playground is an xcode playground that has the implementation and runs on the iris dataset. 
  
